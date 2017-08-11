@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoKotlin</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="access_token">EAAGsfQupOZBYBADbgZBeEMYu4LtveMdL70r43Y41s3ktrj7cFuBhotxXBMey3An4UP9VpZAPhnsCg4K1ihsOc68rGA7wY5ZBBQBAtGgwiDmWHQpkd8Be0IqEYPji7glHyddTZBZBiUPSbgdTqaYAOfIP8TC3PMHEOsZBovckwhdow2Kb5YNdZCk621ZBXUgcG6aot3cJeuikYogZDZD"</string>
+    <string name="user_id">872785052873132</string>
+</resources>
